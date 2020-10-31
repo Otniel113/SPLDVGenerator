@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588945957 source:d:\kuliah online\codingan cpp\spldvgenerator\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+
